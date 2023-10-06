@@ -32,10 +32,6 @@ Current contract scope:
 
 - https://docs.dopex.io/developer/contracts/arbitrum#option-scalps
 
-**ZDTE Options:**
-
-- https://docs.dopex.io/developer/contracts/arbitrum#zdte-options
-
 The following are not within the scope of the Program:
 
 - Bugs in any third party contract or platform that interacts with Dopex
