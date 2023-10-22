@@ -23,11 +23,6 @@ Current contract scope:
 
 - https://docs.dopex.io/developer/contracts/arbitrum#option-liquidity-pools-olps
 
-**Atlantic Straddles:**
-
-- https://docs.dopex.io/developer/contracts/arbitrum#atlantic-straddles
-- https://docs.dopex.io/developer/contracts/polygon#atlantic-straddles
-
 **Option Scalps:**
 
 - https://docs.dopex.io/developer/contracts/arbitrum#option-scalps
