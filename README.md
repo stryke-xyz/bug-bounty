@@ -23,10 +23,6 @@ Current contract scope:
 
 - https://docs.dopex.io/developer/contracts/arbitrum#option-liquidity-pools-olps
 
-**Option Scalps:**
-
-- https://docs.dopex.io/developer/contracts/arbitrum#option-scalps
-
 The following are not within the scope of the Program:
 
 - Bugs in any third party contract or platform that interacts with Dopex
