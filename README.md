@@ -2,33 +2,26 @@
 
 ## Overview
 
-The security of Dopex users is paramount. For that reason, starting on May 17th 2023, the Dopex Protocol core repository is subject to the Dopex Bug Bounty (the “Program”). The Program enables community members to submit reports of “bugs” or vulnerabilities for a chance to earn rewards. The Program aims to incentivize responsible disclosure and enhance the security of Dopex.
+The security of Stryke (previously Dopex) users is paramount. For that reason, starting on May 17th 2023, the Stryke (previously Dopex) Protocol core repository is subject to the Stryke Bug Bounty (the “Program”). The Program enables community members to submit reports of “bugs” or vulnerabilities for a chance to earn rewards. The Program aims to incentivize responsible disclosure and enhance the security of Stryke (previously Dopex).
 
 Rewards will be allocated based on the severity of the bug disclosed and evaluated and rewarded up to **$250,000**.
 
-The scope, terms and rewards at the sole discretion of the dopex team (the “Team”).
+The scope, terms and rewards at the sole discretion of the stryke team (the “Team”).
 
 ## Scope
 
-The Program includes the vulnerabilities and bugs in the smart contracts deployed which compose the Dopex Platform.
+The Program includes the vulnerabilities and bugs in the smart contracts deployed which compose the Stryke (previously Dopex) Platform.
 
 Current contract scope:
 
-**SsovV3:**
-
-- https://docs.dopex.io/developer/contracts/arbitrum#ssov-v3
-- https://docs.dopex.io/developer/contracts/polygon#ssov-v3
-
-**OLP:**
-
-- https://docs.dopex.io/developer/contracts/arbitrum#option-liquidity-pools-olps
+https://docs.dopex.io/developer/contracts/arbitrum#dopex-v2-clamm
 
 The following are not within the scope of the Program:
 
-- Bugs in any third party contract or platform that interacts with Dopex
+- Bugs in any third party contract or platform that interacts with Stryke (previously Dopex)
 - Bugs found in legacy/deprecated contracts
 - Vulnerabilities related to domains, DNS, servers of websites, or website application related code
-- Vulnerabilities already reported and/or discovered in contracts built by third parties on Dopex
+- Vulnerabilities already reported and/or discovered in contracts built by third parties on Stryke (previously Dopex)
 - Any already-reported bugs or other vulnerabilities
 
 Determinations of eligibility, score and all terms related to rewards and their payment are at the sole discretion of the Team.
@@ -47,7 +40,7 @@ To be eligible for a reward under this Program, you must:
 
 ## Disclosure
 
-Any vulnerability or bug discovered must be reported to the Team via [security@dopex.io](mailto:security@dopex.io). The disclosure must be made within 24 hours following the discovery of the vulnerability and, as noted above, not have been exploited in any way prior to disclosure or publicized or disclosed to any third party (other than the Team) prior to not only submission of the report, but also fixing of the bug / vulnerability.
+Any vulnerability or bug discovered must be reported to the Team via [security@stryke.xyz](mailto:security@stryke.xyz). The disclosure must be made within 24 hours following the discovery of the vulnerability and, as noted above, not have been exploited in any way prior to disclosure or publicized or disclosed to any third party (other than the Team) prior to not only submission of the report, but also fixing of the bug / vulnerability.
 
 ## Rewards
 
