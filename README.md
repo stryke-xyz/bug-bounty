@@ -14,7 +14,8 @@ The Program includes the vulnerabilities and bugs in the smart contracts deploye
 
 Current contract scope:
 
-https://docs.dopex.io/developer/contracts/arbitrum#dopex-v2-clamm
+[CLAMM Contracts](https://docs.stryke.xyz/developers/deployed-addresses/clamm)
+[Token & Other Contracts](https://docs.stryke.xyz/developers/deployed-addresses/tokens-and-others) (Excludes the AccessManager contract)
 
 The following are not within the scope of the Program:
 
